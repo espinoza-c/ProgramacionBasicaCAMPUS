@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClasesVehiculos
 {
-    public class Moto : Vehiculo
+    sealed public class Moto : Vehiculo
     {
         private string TypeOfBike { get; set; }
         private int CubicCentimeters { get; set; }
@@ -27,7 +27,7 @@ namespace ClasesVehiculos
         }
         public void HacerWheelie()
         {
-            Console.WriteLine($"La moto {Marca} modelo {Modelo} de tipo {TypeOfBike} hace un truco, es facil por sus {CubicCentimeters} cc.");
+            Console.WriteLine($"La moto {Marca} modelo {Modelo} de tipo {TypeOfBike} hace un truco, es fac por sus {CubicCentimeters} cc.");
         }
 
 

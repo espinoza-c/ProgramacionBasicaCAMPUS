@@ -14,15 +14,26 @@ namespace Proyecto_programacion_basica
             string varIn = "C:\\Users\\a875026\\source\\repos\\Proyecto_programacion_basica\\Proyecto_programacion_basica\\countries.txt";
             string varOut = $"C:\\Users\\a875026\\source\\repos\\Proyecto_programacion_basica\\Proyecto_programacion_basica\\{fileName}.txt";
 
-            //GreetCountries(varIn, varOut);
+            
+            //1.0 Conceptos generales
+            GreetCountries(varIn, varOut);
+
+            //2.0 Programacion orientada a objetos
             Moto moto = new Moto("ducati","x5","cuatrimoto",450);
             moto.Frenar();
             moto.HacerWheelie();
+
+            //3.2 Prueba metodo Fail();
+            Fail fallo = new Fail(1,0);
+            fallo.ArrojaExcepcion();
         }
         static public void GreetCountries(string inputFile, string outputFile)
         {
+            try
+            {
             //Leemos el archivo countries.txt y guardamos cada linea en el array fileReader
-            string[] fileReader = File.ReadAllLines(inputFile);
+             string[] fileReader = File.ReadAllLines(inputFile);
+            
 
             //Creamos una lista vacia donde se guardan las filas de texto generadas
             List<string> contryList = new List<string>();
@@ -34,13 +45,19 @@ namespace Proyecto_programacion_basica
                 contryList.Add(placeHolder);
                 
             }
-
             //Finalmente escribimos todas las lineas editadas en el archivo output
             File.WriteAllLines(outputFile, contryList);
             Console.WriteLine("Done!");
+            }
+            catch(Exception e)
+            {
+                if (e is FileNotFoundException)
+                {
+                    Console.WriteLine("El programa no corre porque no encuentra el arhcivo en la ruta especificada");
+                    return;
+                }
+                Console.WriteLine($"El programa no corre por un error general: {e.Message.ToString()}");
+            }
         }
-
-
-
     }
 }
