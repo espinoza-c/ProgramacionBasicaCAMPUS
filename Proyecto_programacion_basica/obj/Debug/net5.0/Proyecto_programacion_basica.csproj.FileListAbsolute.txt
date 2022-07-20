@@ -1,0 +1,16 @@
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.exe
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.deps.json
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.runtimeconfig.json
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.runtimeconfig.dev.json
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.dll
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\Proyecto_programacion_basica.pdb
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.csproj.AssemblyReference.cache
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.AssemblyInfoInputs.cache
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.AssemblyInfo.cs
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.csproj.CoreCompileInputs.cache
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.dll
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\refint\Proyecto_programacion_basica.dll
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.pdb
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\Proyecto_programacion_basica.genruntimeconfig.cache
+C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\obj\Debug\net5.0\ref\Proyecto_programacion_basica.dll

@@ -1,0 +1,1 @@
+Exception: Could not find file 'C:\Users\a875026\source\repos\Proyecto_programacion_basica\Proyecto_programacion_basica\bin\Debug\net5.0\countries.txt'.
